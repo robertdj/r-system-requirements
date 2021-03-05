@@ -5071,8 +5071,4 @@
     "Package": "RODBC",
     "SystemRequirements": "An ODBC3 driver manager and drivers."
   },
-  {
-    "Package": "XML",
-    "SystemRequirements": "libxml2 (>= 2.6.3)"
-  }
 ]
